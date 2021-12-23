@@ -1,0 +1,361 @@
+username=UMR! all=1702 one=1272 two=402 three=28 pt=112813
+  Time.   2021-12-13 23:58:54(UTC+8)
+---------
+username=tada all=150 one=113 two=31 three=6 pt=0
+  Time.   2021-12-14 00:16:59(UTC+8)
+---------
+username= all=0 one=0 two=0 three=0 pt=
+  Time.   2021-12-14 00:34:04(UTC+8)
+---------
+username= all=0 one=0 two=0 three=0 pt=2
+  Time.   2021-12-14 00:34:23(UTC+8)
+---------
+username= all=0 one=0 two=0 three=0 pt=2
+  Time.   2021-12-14 00:34:34(UTC+8)
+---------
+  Time.   2021-12-14 00:34:35(UTC+8)
+---------
+username= all=2 one=1 two=1 three=0 pt=0
+  Time.   2021-12-14 00:36:54(UTC+8)
+---------
+username=啊？ all=143 one=98 two=42 three=3 pt=0
+  Time.   2021-12-14 01:48:38(UTC+8)
+---------
+username=ScMithril all=216 one=164 two=49 three=3 pt=5
+  Time.   2021-12-14 01:58:44(UTC+8)
+---------
+username=1 all=0 one=0 two=0 three=0 pt=0
+  Time.   2021-12-14 02:14:19(UTC+8)
+---------
+username=so, nvida, fxxk u all=0 one=0 two=0 three=0 pt=0
+  Time.   2021-12-14 02:55:18(UTC+8)
+---------
+username=so, nvida, fxxk u all=200 one=152 two=47 three=1 pt=9800
+  Time.   2021-12-14 03:19:39(UTC+8)
+---------
+username=114514 all=270 one=194 two=64 three=12 pt=0
+  Time.   2021-12-14 03:39:00(UTC+8)
+---------
+username= all=NaN one=NaN two=NaN three=NaN pt=0
+  Time.   2021-12-14 06:22:33(UTC+8)
+---------
+username=曦 all=104 one=77 two=26 three=1 pt=0
+  Time.   2021-12-14 08:55:42(UTC+8)
+---------
+  Time.   2021-12-14 08:56:28(UTC+8)
+---------
+username=玖岩 all=0 one=0 two=0 three=0 pt=0
+  Time.   2021-12-14 08:56:29(UTC+8)
+---------
+username= all=NaN one=NaN two=NaN three=NaN pt=19341
+  Time.   2021-12-14 09:38:14(UTC+8)
+---------
+username= all=NaN one=NaN two=NaN three=NaN pt=0
+  Time.   2021-12-14 10:30:51(UTC+8)
+---------
+username=桃沢嵐 all=53 one=34 two=18 three=1 pt=0
+  Time.   2021-12-14 10:43:06(UTC+8)
+---------
+username=桃沢嵐 all=53 one=34 two=18 three=1 pt=0
+  Time.   2021-12-14 10:43:06(UTC+8)
+---------
+username=0 all=21 one=15 two=5 three=1 pt=0
+  Time.   2021-12-14 10:57:08(UTC+8)
+---------
+username=hqk all=70 one=52 two=16 three=2 pt=0
+  Time.   2021-12-14 10:57:56(UTC+8)
+---------
+username= all=10 one=9 two=1 three=0 pt=12
+  Time.   2021-12-14 11:37:50(UTC+8)
+---------
+username=misaki all=190 one=142 two=47 three=1 pt=4561
+  Time.   2021-12-14 11:58:31(UTC+8)
+---------
+username=1 all=132 one=97 two=33 three=2 pt=0
+  Time.   2021-12-14 12:33:47(UTC+8)
+---------
+username=1 all=132 one=97 two=33 three=2 pt=0
+  Time.   2021-12-14 12:34:31(UTC+8)
+---------
+username=啊希 all=0 one=0 two=0 three=0 pt=0
+  Time.   2021-12-14 12:41:49(UTC+8)
+---------
+username= all=10 one=7 two=2 three=1 pt=90
+  Time.   2021-12-14 13:16:03(UTC+8)
+---------
+username= all=NaN one=NaN two=NaN three=NaN pt=0
+  Time.   2021-12-14 13:25:47(UTC+8)
+---------
+username=astes1a all=0 one=0 two=0 three=0 pt=0
+  Time.   2021-12-14 14:12:57(UTC+8)
+---------
+username=1 all=370 one=285 two=83 three=2 pt=4
+  Time.   2021-12-14 14:39:58(UTC+8)
+---------
+username=1600398256 all=1 one=1 two=0 three=0 pt=0
+  Time.   2021-12-14 14:41:28(UTC+8)
+---------
+username= all=10 one=8 two=2 three=0 pt=0
+  Time.   2021-12-14 15:05:41(UTC+8)
+---------
+username=xcn all=83 one=53 two=28 three=2 pt=17
+  Time.   2021-12-14 15:33:08(UTC+8)
+---------
+username=人偶 all=510 one=375 two=127 three=8 pt=0
+  Time.   2021-12-14 15:34:24(UTC+8)
+---------
+username= all=540 one=418 two=115 three=7 pt=12
+  Time.   2021-12-14 15:43:56(UTC+8)
+---------
+username= all=NaN one=NaN two=NaN three=NaN pt=0
+  Time.   2021-12-14 16:18:12(UTC+8)
+---------
+username=LD all=300 one=224 two=72 three=4 pt=0
+  Time.   2021-12-14 16:30:58(UTC+8)
+---------
+username= all=NaN one=NaN two=NaN three=NaN pt=51
+  Time.   2021-12-14 16:36:49(UTC+8)
+---------
+username=yuanguang all=0 one=0 two=0 three=0 pt=5
+  Time.   2021-12-14 17:21:19(UTC+8)
+---------
+username=aw all=130 one=101 two=27 three=2 pt=0
+  Time.   2021-12-14 17:55:54(UTC+8)
+---------
+username=yyj_dada all=368 one=266 two=95 three=7 pt=0
+  Time.   2021-12-14 18:27:02(UTC+8)
+---------
+username=雾酱 all=1100 one=808 two=271 three=21 pt=0
+  Time.   2021-12-14 18:27:32(UTC+8)
+---------
+username=雾酱 all=1100 one=808 two=271 three=21 pt=0
+  Time.   2021-12-14 18:27:32(UTC+8)
+---------
+username=雾酱 all=1243 one=910 two=307 three=26 pt=0
+  Time.   2021-12-14 18:31:38(UTC+8)
+---------
+username=123 all=0 one=0 two=0 three=0 pt=0
+  Time.   2021-12-14 18:33:10(UTC+8)
+---------
+username=1 all=443 one=327 two=106 three=10 pt=0
+  Time.   2021-12-14 18:38:26(UTC+8)
+---------
+username=catherine all=112 one=82 two=26 three=4 pt=17
+  Time.   2021-12-14 18:49:06(UTC+8)
+---------
+username=·12 all=40 one=23 two=16 three=1 pt=2
+  Time.   2021-12-14 19:24:15(UTC+8)
+---------
+username=ryan all=91 one=67 two=24 three=0 pt=5
+  Time.   2021-12-14 19:28:56(UTC+8)
+---------
+username=SuNatsumi all=160 one=118 two=37 three=5 pt=0
+  Time.   2021-12-14 19:45:17(UTC+8)
+---------
+username=铜陵车神ZQ all=218 one=163 two=52 three=3 pt=0
+  Time.   2021-12-14 21:21:27(UTC+8)
+---------
+username=冷江 all=250 one=178 two=64 three=8 pt=0
+  Time.   2021-12-14 23:27:11(UTC+8)
+---------
+username= all=154 one=111 two=40 three=3 pt=0
+  Time.   2021-12-14 23:40:31(UTC+8)
+---------
+
+  Time.   2021-12-15 05:37:55(UTC+8)
+---------
+username= all=110 one=88 two=20 three=2 pt=0
+  Time.   2021-12-15 08:38:29(UTC+8)
+---------
+
+  Time.   2021-12-15 08:46:52(UTC+8)
+---------
+username= all=80 one=63 two=16 three=1 pt=0
+  Time.   2021-12-15 09:40:16(UTC+8)
+---------
+
+  Time.   2021-12-15 11:07:04(UTC+8)
+---------
+username= all=51 one=40 two=10 three=1 pt=0
+  Time.   2021-12-15 11:12:37(UTC+8)
+---------
+
+  Time.   2021-12-15 15:02:33(UTC+8)
+---------
+
+  Time.   2021-12-15 15:02:33(UTC+8)
+---------
+username=ldcivan all=10 one=7 two=2 three=1 pt=0
+  Time.   2021-12-15 16:30:44(UTC+8)
+---------
+username=ldcivan all=10 one=7 two=2 three=1 pt=0
+  Time.   2021-12-15 16:32:35(UTC+8)
+---------
+username=ldcivan all=20 one=16 two=3 three=1 pt=0
+  Time.   2021-12-15 16:33:50(UTC+8)
+---------
+
+  Time.   2021-12-15 17:30:05(UTC+8)
+---------
+
+  Time.   2021-12-15 17:30:46(UTC+8)
+---------
+username=qiann all=120 one=90 two=27 three=3 pt=7
+  Time.   2021-12-15 17:50:38(UTC+8)
+---------
+username=。 all=10 one=9 two=1 three=0 pt=6
+  Time.   2021-12-15 18:05:02(UTC+8)
+---------
+username= all=NaN one=NaN two=NaN three=NaN pt=2
+  Time.   2021-12-15 18:12:34(UTC+8)
+---------
+username=3 all=160 one=122 two=37 three=1 pt=2
+  Time.   2021-12-15 18:31:37(UTC+8)
+---------
+username= all=70 one=49 two=20 three=1 pt=14
+  Time.   2021-12-15 18:51:51(UTC+8)
+---------
+
+  Time.   2021-12-15 19:26:58(UTC+8)
+---------
+
+  Time.   2021-12-15 21:26:03(UTC+8)
+---------
+username= all=NaN one=NaN two=NaN three=NaN pt=0
+  Time.   2021-12-15 21:51:39(UTC+8)
+---------
+username=Catherine all=40 one=28 two=11 three=1 pt=0
+  Time.   2021-12-15 22:38:21(UTC+8)
+---------
+username=Catherine all=40 one=28 two=11 three=1 pt=0
+  Time.   2021-12-15 22:38:21(UTC+8)
+---------
+username=Catherine all=40 one=28 two=11 three=1 pt=0
+  Time.   2021-12-15 22:38:22(UTC+8)
+---------
+username=Catherine all=40 one=28 two=11 three=1 pt=0
+  Time.   2021-12-15 22:38:22(UTC+8)
+---------
+
+  Time.   2021-12-15 23:06:39(UTC+8)
+---------
+
+  Time.   2021-12-15 23:07:06(UTC+8)
+---------
+
+  Time.   2021-12-15 23:17:13(UTC+8)
+---------
+username= all=NaN one=NaN two=NaN three=NaN pt=20
+  Time.   2021-12-15 23:54:37(UTC+8)
+---------
+username= all=10 one=7 two=2 three=1 pt=10
+  Time.   2021-12-15 23:55:18(UTC+8)
+---------
+
+  Time.   2021-12-16 01:13:18(UTC+8)
+---------
+
+  Time.   2021-12-16 01:22:59(UTC+8)
+---------
+
+  Time.   2021-12-16 07:27:34(UTC+8)
+---------
+username=时崎狂三 all=40 one=33 two=7 three=0 pt=3
+  Time.   2021-12-16 11:01:35(UTC+8)
+---------
+username=清客 all=2 one=2 two=0 three=0 pt=0
+  Time.   2021-12-16 13:19:29(UTC+8)
+---------
+username=清客 all=53 one=40 two=12 three=1 pt=0
+  Time.   2021-12-16 13:21:30(UTC+8)
+---------
+
+  Time.   2021-12-16 15:59:48(UTC+8)
+---------
+
+  Time.   2021-12-16 19:17:38(UTC+8)
+---------
+
+  Time.   2021-12-16 21:22:28(UTC+8)
+---------
+
+  Time.   2021-12-16 23:05:56(UTC+8)
+---------
+
+  Time.   2021-12-16 23:10:12(UTC+8)
+---------
+username=额呃呃呃 all=0 one=0 two=0 three=0 pt=0
+  Time.   2021-12-16 23:12:39(UTC+8)
+---------
+
+  Time.   2021-12-16 23:15:45(UTC+8)
+---------
+username=llm all=302 one=219 two=75 three=8 pt=0
+  Time.   2021-12-17 02:51:01(UTC+8)
+---------
+
+  Time.   2021-12-17 02:52:02(UTC+8)
+---------
+
+  Time.   2021-12-17 03:24:13(UTC+8)
+---------
+
+  Time.   2021-12-17 09:05:45(UTC+8)
+---------
+
+  Time.   2021-12-17 19:34:36(UTC+8)
+---------
+username= all=NaN one=NaN two=NaN three=NaN pt=0
+  Time.   2021-12-17 21:13:13(UTC+8)
+---------
+username=kyouaki all=200 one=146 two=50 three=4 pt=0
+  Time.   2021-12-17 22:59:33(UTC+8)
+---------
+
+  Time.   2021-12-18 08:42:43(UTC+8)
+---------
+username= all=NaN one=NaN two=NaN three=NaN pt=0
+  Time.   2021-12-18 10:33:18(UTC+8)
+---------
+
+  Time.   2021-12-18 13:12:21(UTC+8)
+---------
+
+  Time.   2021-12-18 13:13:07(UTC+8)
+---------
+
+  Time.   2021-12-19 01:45:35(UTC+8)
+---------
+
+  Time.   2021-12-19 01:45:41(UTC+8)
+---------
+
+  Time.   2021-12-19 09:31:09(UTC+8)
+---------
+
+  Time.   2021-12-19 15:42:41(UTC+8)
+---------
+
+  Time.   2021-12-19 19:04:59(UTC+8)
+---------
+
+  Time.   2021-12-20 21:27:36(UTC+8)
+---------
+
+  Time.   2021-12-20 23:46:53(UTC+8)
+---------
+
+  Time.   2021-12-21 16:10:23(UTC+8)
+---------
+username=mkbk all=195 one=145 two=47 three=3 pt=0
+  Time.   2021-12-21 16:13:59(UTC+8)
+---------
+
+  Time.   2021-12-21 18:58:07(UTC+8)
+---------
+
+  Time.   2021-12-22 20:53:14(UTC+8)
+---------
+username= all=44 one=31 two=12 three=1 pt=0
+  Time.   2021-12-22 20:54:49(UTC+8)
+---------
